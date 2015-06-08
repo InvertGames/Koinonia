@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koinonia", "Koinonia\Koinonia.csproj", "{5F4F0812-30E3-4DE9-A0E1-238768844592}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KoinoniaTests", "KoinoniaTests\KoinoniaTests.csproj", "{BDE0AFA8-35C4-412D-B7C1-B9501111EF9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KoinoniaConsolePlayground", "KoinoniaConsolePlayground\KoinoniaConsolePlayground.csproj", "{BF6B93A8-7029-4972-A2CB-686169B7D477}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F4F0812-30E3-4DE9-A0E1-238768844592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F4F0812-30E3-4DE9-A0E1-238768844592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F4F0812-30E3-4DE9-A0E1-238768844592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F4F0812-30E3-4DE9-A0E1-238768844592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDE0AFA8-35C4-412D-B7C1-B9501111EF9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE0AFA8-35C4-412D-B7C1-B9501111EF9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE0AFA8-35C4-412D-B7C1-B9501111EF9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE0AFA8-35C4-412D-B7C1-B9501111EF9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF6B93A8-7029-4972-A2CB-686169B7D477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF6B93A8-7029-4972-A2CB-686169B7D477}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF6B93A8-7029-4972-A2CB-686169B7D477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF6B93A8-7029-4972-A2CB-686169B7D477}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
